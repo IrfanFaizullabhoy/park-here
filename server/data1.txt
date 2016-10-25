@@ -1,0 +1,1 @@
+{"listings":[{"listing_id":0,"address":"2802-Ellendale","listing_name":"","company_id":0,"company_name":"","type":0,"price":0,"square_feet":0,"num_bed":0,"num_bath":0,"mins_walk":0},{"listing_id":0,"address":"NeelsShittyHouse","listing_name":"","company_id":0,"company_name":"","type":0,"price":0,"square_feet":0,"num_bed":0,"num_bath":0,"mins_walk":0}]}

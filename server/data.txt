@@ -1,0 +1,35 @@
+{
+	"listings": [
+		{
+			"listing_id": "10",
+			"address": "2802 Ellendale Pl.",
+			"listing_name": "The Balcony",
+			"company_id": "6",
+			"company_name": "SC Student Housing",
+			"type": "0",
+			"price": "12000",
+			"square_feet": "5000",
+			"num_bed": "9",
+			"num_bath": "8.5",
+			"mins_walk": "7",
+			"description": "This immaculate craftsman mansion is designed for large groups looking for a truly unique and luxurious living experience. The house boasts 9 bedrooms and 8 ½ bathrooms, and includes several second floor private balconies perfect for studying or taking a break. Completely remodeled, down to the studs, in 2015, it is filled with modern amenities but still maintains its historic craftsman style.",
+			"cover_url": "https://scontent-sjc2-1.xx.fbcdn.net/t31.0-8/14125016_10208620343580108_8241005921517953467_o.jpg",
+			"thumbnail_url": "http://southerncalstudenthousing.com/wp-content/uploads/2016/08/2802-exterior-sized.jpg"
+		},
+		{
+			"listing_id": "20",
+			"address": "1275 W 35th St.",
+			"company_id": "8",
+			"company_name": "Mosaic Student Communities",
+			"type": "0",
+			"price": "4700",
+			"square_feet": "2000",
+			"num_bed": "5",
+			"num_bath": "5",
+			"mins_walk": "2",
+			"description": "Located just a few blocks away from the USC campus (Gate 6), this property offers a spacious 5 BD/5 BA gated home with lots of natural sunlight! Great for big groups! Each bedroom comes with its own private full bathroom and individual AC unit. Many of the bedrooms are large enough to accommodate multiple roommates, if desired. There is new hardwood flooring and a deluxe kitchen which includes a refrigerator, stove oven, microwave, and granite countertops. Property is gated with a private front yard and porch. This property is also pet friendly for an additional small deposit!",
+			"cover_url": "http://livewithmosaic.com/pictures/x-large/building/54/54-02.jpg",
+			"thumbnail_url": "http://livewithmosaic.com/pictures/x-large/building/54/54-02.jpg"
+		}
+	]
+}
